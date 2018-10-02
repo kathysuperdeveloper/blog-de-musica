@@ -1,0 +1,58 @@
+body{
+    background: url(../img/fondo.jpg) no-repeat fixed center center #333;
+    background-size: cover;
+}
+
+.cabecera{
+    margin-right: 1px;
+    margin-left: 1px;
+    background-color: rgba(253, 254, 254, .3);
+    min-height: 4rem;
+    border: none;
+}
+.principal{
+    min-height: 89rem;
+    margin-bottom: 10px;
+    margin-top: 14px;
+    margin-left: 14px;
+    margin-right: 14px;
+    background-color: rgba(0, 0, 0, .3);
+    color: white;
+    border-radius: 15px;
+}
+p{
+    color: white;
+}
+.buscador{
+    margin-top: 1px;
+}
+.btn{
+    border-radius: 0px;
+}
+.redes-sociales{
+     margin-top: 80px;
+
+}
+.redes{
+    margin-left: 20px;
+    margin-top: 53px;
+}
+.img-social{
+
+
+}
+.img-dj{
+    height: 250px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.redes img{
+    margin: 4px;
+}
+.img-dj2{
+   height: 290px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
